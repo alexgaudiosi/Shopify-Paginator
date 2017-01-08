@@ -6,6 +6,9 @@ A simple snippet utilising Shopify's pagination method to show the user their cu
 
 ##### What you need to do
 
+1. Either paste the `shopify-paginator.liquid` snippet directly into your collection template, or create as a snippet and include where you want it displayed.
+
+2. Done!
 
 ##### To Do
 
